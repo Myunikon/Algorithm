@@ -1,3 +1,4 @@
+#Versi satu File
 import time
 import json
 from collections import defaultdict

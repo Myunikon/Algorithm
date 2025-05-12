@@ -2,7 +2,7 @@
 
 A Python-based movie management and recommendation system with an interactive user interface.
 
-![alt text](?raw=true)
+![alt text](https://github.com/Myunikon/Algorithm/blob/main/assets/Screenshot%202025-05-12%20110314.png?raw=true)
 
 
 ## Table of Contents

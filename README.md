@@ -32,10 +32,7 @@ A Python-based movie management and recommendation system with an interactive us
     git clone https://github.com/Myunikon/Algorithm.git
     cd Algorithm
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. The program is ready to run on your computer
 
 ## Usage
 1. Run the program:

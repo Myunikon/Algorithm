@@ -2,6 +2,9 @@
 
 A Python-based movie management and recommendation system with an interactive user interface.
 
+![Preview Project](assets/Screenshot 2025-05-12 110314.png)
+
+
 ## Table of Contents
 1. [Features](#features)
 2. [Project Structure](#project-structure)

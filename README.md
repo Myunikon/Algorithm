@@ -1,26 +1,56 @@
 # Movie Recommendation System
 
-Python program for movie management and recommendation with various interactive features.
+A Python-based movie management and recommendation system with an interactive user interface.
 
-## Main Features
+## Table of Contents
+1. [Features](#features)
+2. [Project Structure](#project-structure)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-- **User Management**: Registration, login, and movie preference settings
-- **Movie Database**: List of movies with complete details (title, genre, rating, year)
-- **Movie Search**: Search by title, genre, rating, and year
-- **Personal Recommendations**: Movie recommendations based on user preferences
-- **Watchlist**: Add and remove movies from watchlist
-- **Movie Rating**: Give and view movie ratings
+## Features
+- **User Management**: Register, login, and set movie preferences.
+- **Movie Database**: Comprehensive list of movies including title, genre, rating, and year.
+- **Movie Search**: Search movies by title, genre, rating, or year.
+- **Personal Recommendations**: Get personalized movie suggestions.
+- **Watchlist Management**: Add and remove movies from your watchlist.
+- **Movie Ratings**: Rate movies and view ratings from others.
 
-## Struktur Proyek
+## Project Structure
+- `movie_database.py`: Handles movie database operations.
+- `user_management.py`: User registration, login, and preference settings.
+- `recommendation_engine.py`: Algorithm for personalized movie recommendations.
+- `search_engine.py`: Implements search functionality.
+- `watchlist_manager.py`: Manages user watchlists.
+- `ui.py`: Provides an interactive user interface.
 
-- `movie_database.py`: Movie database management
-- `user_management.py`: User management and preferences
-- `recommendation_engine.py`: Movie recommendation algorithm
-- `search_engine.py`: Movie search function
-- `watchlist_manager.py`: User watchlist management
-- `ui.py`: User interface and interactive menus
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Myunikon/Algorithm.git
+    cd Algorithm
+    ```
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-## How to use
+## Usage
+1. Run the program:
+    ```bash
+    python main.py
+    ```
+2. Follow the on-screen instructions to explore the features.
 
-1. Clone this repository
-2. Run the program with the command:
+## Contributing
+We welcome contributions! To contribute:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a Pull Request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).

@@ -1,26 +1,26 @@
-# Sistem Rekomendasi Film
+# Movie Recommendation System
 
-Aplikasi konsol Python untuk manajemen dan rekomendasi film dengan berbagai fitur interaktif.
+Python program for movie management and recommendation with various interactive features.
 
-## Fitur Utama
+## Main Features
 
-- **Manajemen Pengguna**: Registrasi, login, dan pengaturan preferensi film
-- **Database Film**: Daftar film dengan detail lengkap (judul, genre, rating, tahun)
-- **Pencarian Film**: Pencarian berdasarkan judul, genre, rating, dan tahun
-- **Rekomendasi Personal**: Rekomendasi film berdasarkan preferensi pengguna
-- **Watchlist**: Menambah dan menghapus film dari daftar tontonan
-- **Rating Film**: Memberikan dan melihat rating film
+- **User Management**: Registration, login, and movie preference settings
+- **Movie Database**: List of movies with complete details (title, genre, rating, year)
+- **Movie Search**: Search by title, genre, rating, and year
+- **Personal Recommendations**: Movie recommendations based on user preferences
+- **Watchlist**: Add and remove movies from watchlist
+- **Movie Rating**: Give and view movie ratings
 
 ## Struktur Proyek
 
-- `movie_database.py`: Pengelolaan database film
-- `user_management.py`: Manajemen pengguna dan preferensi
-- `recommendation_engine.py`: Algoritma rekomendasi film
-- `search_engine.py`: Fungsi pencarian film
-- `watchlist_manager.py`: Pengelolaan watchlist pengguna
-- `ui.py`: Antarmuka pengguna dan menu interaktif
+- `movie_database.py`: Movie database management
+- `user_management.py`: User management and preferences
+- `recommendation_engine.py`: Movie recommendation algorithm
+- `search_engine.py`: Movie search function
+- `watchlist_manager.py`: User watchlist management
+- `ui.py`: User interface and interactive menus
 
-## Cara Menggunakan
+## How to use
 
-1. Clone repositori ini
-2. Jalankan program dengan perintah:
+1. Clone this repository
+2. Run the program with the command:
